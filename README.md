@@ -34,7 +34,11 @@ Atliq Hardware is a computer hardware and accessory manufacturer.
 
 ---
 
+<<<<<<< HEAD
 1. **Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.**
+=======
+**1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.**
+>>>>>>> 6dd7d05df2ea769f1cb299435f0e2a3daede9d2b
 
 #### SQL Query: -
 
@@ -63,9 +67,14 @@ ORDER BY market;
 
 ---
 
+<<<<<<< HEAD
 2. **What is the percentage of unique product increase in 2021 vs. 2020? The
    final output contains these fields,
    **
+=======
+**2. What is the percentage of unique product increase in 2021 vs. 2020? The
+   final output contains these fields,**
+>>>>>>> 6dd7d05df2ea769f1cb299435f0e2a3daede9d2b
 
 - unique_products_2020
 - unique_products_2021
@@ -102,7 +111,11 @@ unique_products_2021;
 
 ---
 
+<<<<<<< HEAD
 3. **Provide a report with all the unique product counts for each segment and
+=======
+**3. Provide a report with all the unique product counts for each segment and
+>>>>>>> 6dd7d05df2ea769f1cb299435f0e2a3daede9d2b
    sort them in descending order of product counts. The final output contains
    2 fields,**
 
