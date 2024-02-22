@@ -16,44 +16,31 @@
 
 Atliq Hardware is a computer hardware and accessory manufacturer.
 
-| Division | Segment | Category |
-| -------- | ------- | -------- |
-| N & S    |
-| ^        |
-| P & A    |
+| Division | Segment     | Category                    |
+| -------- | ----------- | --------------------------- |
+| N & S    | Storage     | External Solid State Drives |
+|          |             | USB Flash Drives            |
+|          | Networking  | WI-Fi Extender              |
+| P & A    | Peripherals | Graphic Card                |
+|          |             | Internal HDD                |
+|          |             | MotherBoard                 |
+|          |             | Processors                  |
+|          | Accessories | Batteries                   |
+|          |             | Keyboard                    |
+|          |             | Mouse                       |
 | PC       |
 
-| Cell1       | Cell2     | Cell3  |
-| ----------- | --------- | ------ |
-| merge right |           |        |
-| merge       |           |        |
-| below       | ^         | ^      |
-| merge both  |           | value1 |
-| ^           |           | value2 |
-| Content     | Long Cell |        |
-| Content     | Cell      | Cell   |
+Notebook
+Desktop
+Storage
+Networking
 
+Personal Laptop
+Business Laptop
+Gaming Laptop
+Personal Desktop
 
-````md
-```sheet
-{
-    classes: { 
-        class1: { 
-            "color": "cyan",
-        },
-        class2: {
-            backgroundColor: "#555",
-        }
-    },
-}
----
-| I                 | -   | have | meta                  | data        | too! |
-| ----------------- | --- | ---- | --------------------- | ----------- | ---- |
-| group 1           | -   | foo  | bar ~ .class1 .class2 | baz         | test |
-| group 2 ~ .class1 | -   | 1    | ^                     | 3 ~ .class2 | 4    |
-
-```
-````
+Wi fi extender
 
 1.
 2.
