@@ -1,7 +1,5 @@
 # Provide Insights to Management in Consumer Goods Domain
 
----
-
 ## Objective
 
 - AtliqHardware (fictitious corporation) is one ofthe major computer hardware manufacturers in India, with a strong presence in other nations.
@@ -36,7 +34,7 @@ Atliq Hardware is a computer hardware and accessory manufacturer.
 
 ---
 
-1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
+**1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.**
 
 #### SQL Query: -
 
@@ -65,8 +63,8 @@ ORDER BY market;
 
 ---
 
-2. What is the percentage of unique product increase in 2021 vs. 2020? The
-   final output contains these fields,
+**2. What is the percentage of unique product increase in 2021 vs. 2020? The
+   final output contains these fields,**
 
 - unique_products_2020
 - unique_products_2021
@@ -103,9 +101,9 @@ unique_products_2021;
 
 ---
 
-3. Provide a report with all the unique product counts for each segment and
+**3. Provide a report with all the unique product counts for each segment and
    sort them in descending order of product counts. The final output contains
-   2 fields,
+   2 fields,**
 
 - segment
 - product_count
